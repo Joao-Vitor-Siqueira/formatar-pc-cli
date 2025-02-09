@@ -1,0 +1,39 @@
+{
+    "downloads" : [
+        {
+            "name": "MSI Afterburner",
+            "fileName": "MSIAfterburnerSetup.zip",
+            "url" : "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1739265523~acl=/*~hmac=86d70ea9cae82179e2b6f8fbba667ba539d5f1efdcf0c4fc25ebbbf49f449121"
+        },
+        {
+            "name": "Hoyoplay Launcher",
+            "fileName": "Hoyoplay.exe",
+            "url" : "https://sg-public-api.hoyoverse.com/event/download_porter/trace/hyp_global/hyphoyoverse/default?url=https%3A%2F%2Fhoyoplay.hoyoverse.com%2F"
+        },
+        {
+            "name": "Steam",
+            "fileName": "SteamSetup.exe",
+            "url" : "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe"
+        },
+        {
+            "name": "Epic Games",
+            "fileName": "EpicGamesLauncherInstaller.msi",
+            "url" : "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
+        },
+        {
+            "name": "League of Legends",
+            "fileName": "LeagueOfLegendsSetup.exe",
+            "url" : "https://lol.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.br.exe"
+        },
+        {
+            "name": "Discord",
+            "fileName": "DiscordSetup.exe",
+            "url" : "https://discord.com/api/download?platform=win"
+        },
+        {
+            "name": "ILok",
+            "fileName": "LicenseSupportInstallerWin64.zip",
+            "url": "https://downloads.ilok.com/iloklicensemanager/LicenseSupportInstallerWin64.zip"
+        }
+    ]
+}
