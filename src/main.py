@@ -3,7 +3,7 @@ import subprocess
 import os
 import json
 
-PATH = "C:/output"
+PATH = "./output"
 os.makedirs(PATH, exist_ok=True)
 
 def clear_terminal():
